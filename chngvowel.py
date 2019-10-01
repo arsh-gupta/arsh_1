@@ -1,5 +1,5 @@
-a=input("enter any string: ")
-b= list(a)
+inp=input("enter any string: ")
+b= list(inp)
 v="AEIOUaeiou"
 z= list(v)
 for i in range(len(b)):
