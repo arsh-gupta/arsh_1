@@ -1,5 +1,5 @@
 def is_pallindrome(str):
-    new_str = str[ : :-1]
+    new_str = str[::-1] #reverses string
     if str == new_str:
         return True
     else:
