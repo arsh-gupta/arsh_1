@@ -1,4 +1,4 @@
-a=input("enter any string: ")
+a=input("enter any string: ")  #Taking Input Of A List.
 b= list(a)
 v="AEIOUaeiou"
 z= list(v)
